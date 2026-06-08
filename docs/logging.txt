@@ -1,0 +1,1 @@
+Logs werden in logs/toolkit.log gespeichert.
